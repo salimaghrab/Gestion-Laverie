@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\models\\services\\gererconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:models\\services\\gererconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\consoleui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:consoleui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\models\\business\\gererconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:models\\business\\gererconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\models\\business\\gerermachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:models\\business\\gerermachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\models\\services\\calculrecetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:models\\services\\calculrecetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\models\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:models\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\models\\services\\cyclesimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:models\\services\\cyclesimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriesimulateur\\models\\utils\\deserializedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889F39E-76B6-4D2C-B151-2164F046FD48}|LaverieSimulateur.csproj|solutionrelative:models\\utils\\deserializedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculRecetteService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Services\\CalculRecetteService.cs",
+              "RelativeDocumentMoniker": "Models\\Services\\CalculRecetteService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Services\\CalculRecetteService.cs",
+              "RelativeToolTip": "Models\\Services\\CalculRecetteService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:52:04.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gererMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Business\\gererMachine.cs",
+              "RelativeDocumentMoniker": "Models\\Business\\gererMachine.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Business\\gererMachine.cs",
+              "RelativeToolTip": "Models\\Business\\gererMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:21:28.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gererConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Services\\gererConfigService.cs",
+              "RelativeDocumentMoniker": "Models\\Services\\gererConfigService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Services\\gererConfigService.cs",
+              "RelativeToolTip": "Models\\Services\\gererConfigService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:37:49.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gererConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Business\\gererConfig.cs",
+              "RelativeDocumentMoniker": "Models\\Business\\gererConfig.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Business\\gererConfig.cs",
+              "RelativeToolTip": "Models\\Business\\gererConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:37:29.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\ConsoleUI\\MenuManager.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\ConsoleUI\\MenuManager.cs",
+              "RelativeToolTip": "ConsoleUI\\MenuManager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:29:51.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:24:07.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Models\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Models\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:36:46.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CycleSimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Services\\CycleSimulationService.cs",
+              "RelativeDocumentMoniker": "Models\\Services\\CycleSimulationService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Services\\CycleSimulationService.cs",
+              "RelativeToolTip": "Models\\Services\\CycleSimulationService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:43:50.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeserializeData.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Utils\\DeserializeData.cs",
+              "RelativeDocumentMoniker": "Models\\Utils\\DeserializeData.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieSimulateur\\Models\\Utils\\DeserializeData.cs",
+              "RelativeToolTip": "Models\\Utils\\DeserializeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:14:26.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

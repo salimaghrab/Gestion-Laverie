@@ -1,0 +1,176 @@
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.AssemblyInfo.cs
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.exe
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.deps.json
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.runtimeconfig.json
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.pdb
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieDomain.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieDomain.pdb
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.LaverieApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LaverieApi.props
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaverieApi.props
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaverieApi.props
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\scopedcss\bundle\LaverieApi.styles.css
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.Up2Date
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\refint\LaverieApi.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.pdb
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.genruntimeconfig.cache
+C:\Users\admin\Desktop\GestionLaverie\LaverieApi\obj\Debug\net8.0\ref\LaverieApi.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.staticwebassets.endpoints.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.exe
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.deps.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.runtimeconfig.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.pdb
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieDomain.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieDomain.pdb
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.AssemblyReference.cache
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.AssemblyInfoInputs.cache
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.AssemblyInfo.cs
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.CoreCompileInputs.cache
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\scopedcss\bundle\LaverieApi.styles.css
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.LaverieApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.LaverieApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LaverieApi.props
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaverieApi.props
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaverieApi.props
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.Up2Date
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\refint\LaverieApi.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.pdb
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.genruntimeconfig.cache
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\obj\Debug\net8.0\ref\LaverieApi.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\appsettings.json
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.exe
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.deps.json
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.runtimeconfig.json
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieApi.pdb
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieDomain.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\bin\Debug\net8.0\LaverieDomain.pdb
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.LaverieApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LaverieApi.props
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaverieApi.props
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaverieApi.props
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\scopedcss\bundle\LaverieApi.styles.css
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.csproj.CopyComplete
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\refint\LaverieApi.dll
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.pdb
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\LaverieApi.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\.net\GestionLaverie\LaverieApi\obj\Debug\net8.0\ref\LaverieApi.dll

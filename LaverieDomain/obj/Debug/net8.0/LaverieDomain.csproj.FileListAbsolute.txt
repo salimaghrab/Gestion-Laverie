@@ -1,0 +1,22 @@
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\bin\Debug\net8.0\LaverieDomain.deps.json
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\bin\Debug\net8.0\LaverieDomain.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\bin\Debug\net8.0\LaverieDomain.pdb
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.AssemblyInfo.cs
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\obj\Debug\net8.0\refint\LaverieDomain.dll
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.pdb
+C:\Users\admin\Desktop\GestionLaverie\LaverieDomain\obj\Debug\net8.0\ref\LaverieDomain.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\bin\Debug\net8.0\LaverieDomain.deps.json
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\bin\Debug\net8.0\LaverieDomain.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\bin\Debug\net8.0\LaverieDomain.pdb
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.AssemblyInfoInputs.cache
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.AssemblyInfo.cs
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.csproj.CoreCompileInputs.cache
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\obj\Debug\net8.0\refint\LaverieDomain.dll
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\obj\Debug\net8.0\LaverieDomain.pdb
+C:\Users\Mhame\OneDrive\Desktop\Asp.net Projects\GestionLaverie\LaverieDomain\obj\Debug\net8.0\ref\LaverieDomain.dll

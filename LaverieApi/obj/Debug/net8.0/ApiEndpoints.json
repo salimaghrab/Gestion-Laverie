@@ -1,0 +1,301 @@
+[
+  {
+    "ContainingType": "LaverieApi.Controllers.ConfigController",
+    "Method": "GetConfig",
+    "RelativePath": "api/Config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.ConfigController",
+    "Method": "InitConfig",
+    "RelativePath": "api/Config/init",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.CycleTarifController",
+    "Method": "AddCycle",
+    "RelativePath": "api/CycleTarif",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cycle",
+        "Type": "LaverieDomain.CycleTarif",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.CycleTarifController",
+    "Method": "GetAllCycles",
+    "RelativePath": "api/CycleTarif",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.CycleTarifController",
+    "Method": "GetLaveriesByProprietaireId",
+    "RelativePath": "api/CycleTarif/ByMachine/{machineId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "machineId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.GererMachineController",
+    "Method": "ArreterMachine",
+    "RelativePath": "api/GererMachine/arreter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "machineId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.GererMachineController",
+    "Method": "DemarrerMachine",
+    "RelativePath": "api/GererMachine/demarrer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "machineId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "cycleId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.JWTAuthentificationController",
+    "Method": "Authenticate",
+    "RelativePath": "api/JWTAuthentification/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LaverieDomain.AuthenticateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.LaverieController",
+    "Method": "AddLaverie",
+    "RelativePath": "api/Laverie",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laverie",
+        "Type": "LaverieDomain.Laverie",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.LaverieController",
+    "Method": "GetAllLaveries",
+    "RelativePath": "api/Laverie",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.LaverieController",
+    "Method": "GetLaveriesByProprietaireId",
+    "RelativePath": "api/Laverie/ByProprietaire/{proprietaireId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proprietaireId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.MachineController",
+    "Method": "AddMachine",
+    "RelativePath": "api/Machine",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "machine",
+        "Type": "LaverieDomain.Machine",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.MachineController",
+    "Method": "GetAllMachines",
+    "RelativePath": "api/Machine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.MachineController",
+    "Method": "GetLaveriesByProprietaireId",
+    "RelativePath": "api/Machine/ByLaverie/{laverieId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laverieId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.ProprietaireController",
+    "Method": "AddProprietaire",
+    "RelativePath": "api/Proprietaire",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proprietaire",
+        "Type": "LaverieDomain.Proprietaire",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.ProprietaireController",
+    "Method": "GetAllProprietaires",
+    "RelativePath": "api/Proprietaire",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.ProprietaireController",
+    "Method": "GetProprietairebyEmail",
+    "RelativePath": "api/Proprietaire/getprop",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.RecetteController",
+    "Method": "EnregistrerRecette",
+    "RelativePath": "api/Recette",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recette",
+        "Type": "LaverieDomain.RecetteMachine",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaverieApi.Controllers.RecetteController",
+    "Method": "GetRecette",
+    "RelativePath": "api/Recette/machine/{machineId}/date/{date}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "machineId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebSocketController",
+    "Method": "SendMessage",
+    "RelativePath": "api/WebSocket/send/{proprietaireId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proprietaireId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

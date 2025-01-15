@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriedomain\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|solutionrelative:authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriedomain\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|solutionrelative:machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriedomain\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|solutionrelative:proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriedomain\\cycletarif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|solutionrelative:cycletarif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriedomain\\recettemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|solutionrelative:recettemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriedomain\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|solutionrelative:laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|c:\\users\\mhame\\onedrive\\desktop\\asp.net projects\\gestionlaverie\\laveriedomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B77C24-415C-4CBF-BA26-685166A2F7A4}|LaverieDomain.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "AuthenticationRequest.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\AuthenticationRequest.cs",
+              "RelativeToolTip": "AuthenticationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:17:47.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecetteMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\RecetteMachine.cs",
+              "RelativeDocumentMoniker": "RecetteMachine.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\RecetteMachine.cs",
+              "RelativeToolTip": "RecetteMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:55:52.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CycleTarif.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\CycleTarif.cs",
+              "RelativeDocumentMoniker": "CycleTarif.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\CycleTarif.cs",
+              "RelativeToolTip": "CycleTarif.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:31:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\Machine.cs",
+              "RelativeDocumentMoniker": "Machine.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\Machine.cs",
+              "RelativeToolTip": "Machine.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:30:53.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Laverie.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\Laverie.cs",
+              "RelativeDocumentMoniker": "Laverie.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\Laverie.cs",
+              "RelativeToolTip": "Laverie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:30:19.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proprietaire.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\Proprietaire.cs",
+              "RelativeDocumentMoniker": "Proprietaire.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\Proprietaire.cs",
+              "RelativeToolTip": "Proprietaire.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:29:16.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\Asp.net Projects\\GestionLaverie\\LaverieDomain\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:26:56.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

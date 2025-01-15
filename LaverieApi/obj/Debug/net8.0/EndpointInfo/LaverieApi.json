@@ -1,0 +1,655 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "LaverieApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Config/init": {
+      "post": {
+        "tags": [
+          "Config"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Config": {
+      "get": {
+        "tags": [
+          "Config"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/CycleTarif": {
+      "post": {
+        "tags": [
+          "CycleTarif"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CycleTarif"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CycleTarif"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CycleTarif"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "CycleTarif"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/CycleTarif/ByMachine/{machineId}": {
+      "get": {
+        "tags": [
+          "CycleTarif"
+        ],
+        "parameters": [
+          {
+            "name": "machineId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/GererMachine/demarrer": {
+      "post": {
+        "tags": [
+          "GererMachine"
+        ],
+        "parameters": [
+          {
+            "name": "machineId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "cycleId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/GererMachine/arreter": {
+      "post": {
+        "tags": [
+          "GererMachine"
+        ],
+        "parameters": [
+          {
+            "name": "machineId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/JWTAuthentification/authenticate": {
+      "post": {
+        "tags": [
+          "JWTAuthentification"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthenticateRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthenticateRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthenticateRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Laverie": {
+      "post": {
+        "tags": [
+          "Laverie"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Laverie"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Laverie"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Laverie"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Laverie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Laverie/ByProprietaire/{proprietaireId}": {
+      "get": {
+        "tags": [
+          "Laverie"
+        ],
+        "parameters": [
+          {
+            "name": "proprietaireId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Machine": {
+      "post": {
+        "tags": [
+          "Machine"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Machine"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Machine"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Machine"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Machine"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Machine/ByLaverie/{laverieId}": {
+      "get": {
+        "tags": [
+          "Machine"
+        ],
+        "parameters": [
+          {
+            "name": "laverieId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Proprietaire": {
+      "post": {
+        "tags": [
+          "Proprietaire"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proprietaire"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proprietaire"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proprietaire"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Proprietaire"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Proprietaire/getprop": {
+      "get": {
+        "tags": [
+          "Proprietaire"
+        ],
+        "parameters": [
+          {
+            "name": "email",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Recette": {
+      "post": {
+        "tags": [
+          "Recette"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecetteMachine"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecetteMachine"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecetteMachine"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Recette/machine/{machineId}/date/{date}": {
+      "get": {
+        "tags": [
+          "Recette"
+        ],
+        "parameters": [
+          {
+            "name": "machineId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "date",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/WebSocket/send/{proprietaireId}": {
+      "post": {
+        "tags": [
+          "WebSocket"
+        ],
+        "parameters": [
+          {
+            "name": "proprietaireId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AuthenticateRequest": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CycleTarif": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "duree": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dateDebut": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "dateFin": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "machineId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "machine": {
+            "$ref": "#/components/schemas/Machine"
+          },
+          "tarif": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Laverie": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nom": {
+            "type": "string",
+            "nullable": true
+          },
+          "adresse": {
+            "type": "string",
+            "nullable": true
+          },
+          "proprietaireId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "proprietaire": {
+            "$ref": "#/components/schemas/Proprietaire"
+          },
+          "machines": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Machine"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Machine": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nom": {
+            "type": "string",
+            "nullable": true
+          },
+          "modele": {
+            "type": "string",
+            "nullable": true
+          },
+          "etat": {
+            "type": "boolean"
+          },
+          "laverieId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "laverie": {
+            "$ref": "#/components/schemas/Laverie"
+          },
+          "cycles": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/CycleTarif"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Proprietaire": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nom": {
+            "type": "string",
+            "nullable": true
+          },
+          "prenom": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "telephone": {
+            "type": "string",
+            "nullable": true
+          },
+          "adresse": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "laveries": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Laverie"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RecetteMachine": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "machineId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "montant": {
+            "type": "number",
+            "format": "double"
+          },
+          "date": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
